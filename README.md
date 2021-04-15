@@ -1,3 +1,7 @@
+# GitHub Pages Version
+
+[Click here to see the published application](https://lockan.github.io/react-tinkering/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
